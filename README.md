@@ -19,7 +19,7 @@
   - [Link Incoming]
 - <b>Preference Analyzer</b>
   - A Python based tool that uses google sheets to track preferences from multiple participants for different food or drinks. This was initially developed for a whiskey tasting where each of my friends rated each bottle from 0 to 100. The application then pulled these ratings and processed them to provide key insights like which bottle was the collective favorite, which was most cost efficient, which was most or least polarizing, and a personalized ranked list for who each user agreed with most in terms of general rankings.
-  - [Link Incoming]
+  - [Check it out](https://github.com/AaronJWald/PreferenceAnalyzer)
 
 
 <h2> 🤳 Connect with me on LinkedIn:</h2>
