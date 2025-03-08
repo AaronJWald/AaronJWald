@@ -8,9 +8,9 @@
 
 - <b>(Key Project) Minneapolis and Madison Exercise Competition</b>
   - This project utilizes google sheets to track workouts from my friends and I. It pulls this data and processes it to provide both individual and group insights that were then emailed out to users each week.
-  - Key Skills: Python, Apache Airflow, DAGs, API’s, Data Aggregation, Data Manipulation, Data Cleaning, Data Visualization, Iterative Development, OOP Design and Modularity
+  - Key Skills: Python, Apache Airflow, DAGs, API’s, Data Aggregation, Data Manipulation, Data Cleaning, Data Visualization, Iterative Development, OOP Design and Modularity, Personalized Reporting, Email Automation
   - [Link Incoming]
-- <b>(Ongoing + Key Project) Prescription Glasses Inventory Management System</b>
+- <b>(Upcoming Project) Prescription Glasses Inventory Management System</b>
   - In February 2025, I went on a medical mission trip to a northern rural area in the Philippines. The group complained about the shortcomings of their current software and listed a host of things that they wished were different. None of which seemed out of reach for me to develop, and so this is my current project. I made no promises, but if I’m successful, it will help more people receive prescription glasses that they wouldn’t have access to otherwise.
   - [Link Incoming]
 - <b>Music Taste Spotlight</b>
@@ -19,6 +19,7 @@
   - [Check it out](https://github.com/AaronJWald/MusicTasteSpotlight)
 - <b>Preference Analyzer</b>
   - A Python based tool that uses google sheets to track preferences from multiple participants for different food or drinks. This was initially developed for a whiskey tasting where each of my friends rated each bottle from 0 to 100. The application then pulled these ratings and processed them to provide key insights like which bottle was the collective favorite, which was most cost efficient, which was most or least polarizing, and a personalized ranked list for who each user agreed with most in terms of general rankings.
+  - Key Skills: Data Extraction, Transformation with Pandas, Data Validation, Data Aggregation, Automation, Email Automation, Python, Modularity, Personalized Reporting
   - [Check it out](https://github.com/AaronJWald/PreferenceAnalyzer)
 
 
