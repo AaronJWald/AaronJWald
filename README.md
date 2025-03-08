@@ -16,7 +16,7 @@
 - <b>Music Taste Spotlight</b>
   - Music is important to my friends, and I wanted to provide an avenue for my friends to spotlight things they’ve been listening to without taking up the entire night in the short weekends we get to get together. This project allows anyone to “DJ” for a little while and play songs in 60 second increments either from the queue or a created playlist. I also built in functionality for people to choose the start times of their songs and end point if 60 seconds isn’t ideal. This utilized Spotify’s api with some logic to feed in the proper parameters or default when needed.
   - Key Skills: API Integration, Authentication, Authorization, Data Manipulation, Time Management, Error Handling, OOP Design and Modularity
-  - [Link Incoming]
+  - [Check it out](https://github.com/AaronJWald/MusicTasteSpotlight)
 - <b>Preference Analyzer</b>
   - A Python based tool that uses google sheets to track preferences from multiple participants for different food or drinks. This was initially developed for a whiskey tasting where each of my friends rated each bottle from 0 to 100. The application then pulled these ratings and processed them to provide key insights like which bottle was the collective favorite, which was most cost efficient, which was most or least polarizing, and a personalized ranked list for who each user agreed with most in terms of general rankings.
   - [Check it out](https://github.com/AaronJWald/PreferenceAnalyzer)
