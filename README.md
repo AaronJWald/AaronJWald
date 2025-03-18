@@ -9,7 +9,7 @@
 - <b>(Key Project) Minneapolis and Madison Exercise Competition</b>
   - This project utilizes google sheets to track workouts from my friends and I. It pulls this data and processes it to provide both individual and group insights that were then emailed out to users each week.
   - Key Skills: Python, Apache Airflow, DAGs, API’s, Data Aggregation, Data Manipulation, Data Cleaning, Data Visualization, Iterative Development, OOP Design and Modularity, Personalized Reporting, Email Automation
-  - [Link Incoming]
+  - [Check it out](https://github.com/AaronJWald/ExerciseCompetiton)
 - <b>(Upcoming Project) Prescription Glasses Inventory Management System</b>
   - In February 2025, I went on a medical mission trip to a northern rural area in the Philippines. The group complained about the shortcomings of their current software and listed a host of things that they wished were different. None of which seemed out of reach for me to develop, and so this is my current project. I made no promises, but if I’m successful, it will help more people receive prescription glasses that they wouldn’t have access to otherwise.
   - [Link Incoming]
