@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aaron! <br/><a href="https://github.com/AaronJWald">Data Engineer</a>, <a href="https://www.linkedin.com/in/aaron-wald-86842611b/">Python Professional</a>
+<h1>Hi, I'm Aaron! <br/><a href="https://github.com/AaronJWald">Data Analyst | Python & SQL Automation</a>, <a href="https://www.linkedin.com/in/aaron-wald-86842611b/">Python Professional</a>
 <br>
 
 <h2>About Me</h2>
